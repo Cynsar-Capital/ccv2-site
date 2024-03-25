@@ -96,7 +96,7 @@ sections:
       label: Get in touch
       color: text-primary
     colors: bg-light-fg-dark
-slug: empty
+slug: landing
 isDraft: false
 seo:
   type: Seo
