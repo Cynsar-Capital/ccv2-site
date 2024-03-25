@@ -45,11 +45,9 @@ sections:
       text: While we are busy building
       color: text-dark
     subtitle: Subscribe to our product updates
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Stay updated on our product developments regarding open-source capital
+      management by subscribing to our updates.
     actions: []
     media:
       type: FormBlock
