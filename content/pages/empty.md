@@ -20,7 +20,7 @@ sections:
         iconPosition: right
         style: secondary
       - type: Link
-        label: See Tutorials
+        label: Use Cases
         url: /
         showIcon: true
         icon: arrowRight
