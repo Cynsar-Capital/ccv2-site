@@ -9,9 +9,9 @@ sections:
       color: text-dark
     subtitle: Automated Funds Management
     text: >
-      Gone are days where funds management is still in 1970’s type sheets. Bring
-      all the fund together and let it work without you lifting a finger. We
-      take care of the rest.
+      The days of managing funds with outdated 1970s-style spreadsheets are
+      over. Consolidate all your funds and let them work effortlessly without
+      you needing to lift a finger. We handle everything else for you.
     actions:
       - type: Button
         label: Get started
