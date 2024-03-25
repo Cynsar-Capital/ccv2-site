@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Capital at work
       color: text-dark
-    subtitle: Be in good company
+    subtitle: Automated Funds Management
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
