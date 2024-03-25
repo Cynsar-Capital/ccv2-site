@@ -44,7 +44,7 @@ sections:
       type: TitleBlock
       text: While we are busy building
       color: text-dark
-    subtitle: Section with a form subtitle
+    subtitle: Subscribe to our product updates
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
