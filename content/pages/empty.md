@@ -9,8 +9,9 @@ sections:
       color: text-dark
     subtitle: Automated Funds Management
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      Gone are days where funds management is still in 1970’s type sheets. Bring
+      all the fund together and let it work without you lifting a finger. We
+      take care of the rest.
     actions:
       - type: Button
         label: Get started
