@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Private Equities
+      text: Manage your investments
       color: text-dark
       type: TitleBlock
     subtitle: ''
