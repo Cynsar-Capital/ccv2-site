@@ -36,7 +36,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Deploy your capital
       color: text-primary
       type: Badge
     elementId: ''
