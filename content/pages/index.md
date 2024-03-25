@@ -12,7 +12,7 @@ sections:
       We are building an automated fund management for private markets for
       individuals and startups and investors.
     actions:
-      - label: Get started
+      - label: Subscribe
         altText: ''
         url: /
         showIcon: false
