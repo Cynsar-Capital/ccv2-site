@@ -14,7 +14,7 @@ sections:
       you needing to lift a finger. We handle everything else for you.
     actions:
       - type: Button
-        label: Read updates
+        label: Beta Ready
         url: /
         icon: arrowRight
         iconPosition: right

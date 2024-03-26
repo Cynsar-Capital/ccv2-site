@@ -1,17 +1,19 @@
 {
     "logo": {
-        "url": "/images/logo-dark.svg",
+        "url": "/images/cc-logo.png",
         "altText": "Logo dark",
         "styles": {
             "self": {
-                "margin": ["mr-3"]
+                "margin": [
+                    "mr-[90%]"
+                ]
             }
         },
         "type": "ImageBlock"
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
+            "label": "Partners",
             "url": "/pricing",
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -37,11 +39,11 @@
             "type": "Link"
         },
         {
-            "label": "Dropdown",
+            "label": "About",
             "altText": "Dropdown",
             "links": [
                 {
-                    "label": "Dropdown item",
+                    "label": "Ethos",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
@@ -49,7 +51,7 @@
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
+                    "label": "Governance",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
