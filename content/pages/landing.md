@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: We are coming up with a product
+title: 'Cynsar Capital Creating Opportunities '
 sections:
   - type: GenericSection
     title:
