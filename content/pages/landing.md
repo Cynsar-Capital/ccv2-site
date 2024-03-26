@@ -100,8 +100,11 @@ slug: landing
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Landing Page
-  metaDescription: Write here your new page's description including most relevant keywords.
+  metaTitle: Uniquely positioned private equities  open source automated fund platform.
+  metaDescription: >-
+    The days of managing funds with outdated 1970s-style spreadsheets are over.
+    Consolidate all your funds and let them work effortlessly without you
+    needing to lift a finger. We handle everything else for you.
   addTitleSuffix: true
   socialImage: /images/main-hero.jpg
   metaTags: []
