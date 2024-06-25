@@ -1,15 +1,10 @@
 {
     "logo": {
-        "url": "/images/cc-logo.png",
+        "url": "/images/logo-white.svg",
         "altText": "Logo light",
-        "styles": {
-            "self": {
-                "margin": ["mr-[80%]"]
-            }
-        },
         "type": "ImageBlock"
     },
-    "text": "Meditating on capital grow\n",
+    "text": "Mediate and grow c\n",
     "primaryLinks": {
         "title": "Product",
         "links": [

@@ -14,7 +14,7 @@ sections:
       you needing to lift a finger. We handle everything else for you.
     actions:
       - type: Button
-        label: Beta Ready
+        label: Read updates
         url: /
         icon: arrowRight
         iconPosition: right
@@ -100,11 +100,8 @@ slug: landing
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Uniquely positioned private equities  open source automated fund platform.
-  metaDescription: >-
-    The days of managing funds with outdated 1970s-style spreadsheets are over.
-    Consolidate all your funds and let them work effortlessly without you
-    needing to lift a finger. We handle everything else for you.
+  metaTitle: Landing Page
+  metaDescription: Write here your new page's description including most relevant keywords.
   addTitleSuffix: true
   socialImage: /images/main-hero.jpg
   metaTags: []

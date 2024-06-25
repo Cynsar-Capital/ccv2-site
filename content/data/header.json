@@ -1,11 +1,11 @@
 {
     "logo": {
-        "url": "/images/cc-logo.png",
+        "url": "/images/logo-dark.svg",
         "altText": "Logo dark",
         "styles": {
             "self": {
                 "margin": [
-                    "mr-[90%]"
+                    "mr-3"
                 ]
             }
         },
@@ -13,7 +13,7 @@
     },
     "primaryLinks": [
         {
-            "label": "Partners",
+            "label": "Pricing",
             "url": "/pricing",
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -37,38 +37,6 @@
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
-        },
-        {
-            "label": "About",
-            "altText": "Dropdown",
-            "links": [
-                {
-                    "label": "Ethos",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                },
-                {
-                    "label": "Governance",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                },
-                {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                }
-            ],
-            "labelStyle": "secondary",
-            "type": "SubNav"
         }
     ],
     "secondaryLinks": [
